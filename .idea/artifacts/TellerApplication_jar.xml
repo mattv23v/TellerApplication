@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TellerApplication:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TellerApplication_jar</output-path>
+    <root id="archive" name="TellerApplication.jar">
+      <element id="module-output" name="TellerApplication" />
+    </root>
+  </artifact>
+</component>
